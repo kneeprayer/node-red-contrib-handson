@@ -1,0 +1,31 @@
+{
+  "name": "red-contrib-handson",
+  "version": "1.0.0",
+  "node-red": {
+    "nodes": {
+      "lower-case": "node.js"
+    }
+  },
+  "description": "node-RED node to realize zundoko kiyoshi alogrithm",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kneeprayer/node-red-contrib-handson.git"
+  },
+  "keywords": [
+    "node-red",
+    "zundoko",
+    "kiyoshi",
+    "handon"
+  ],
+  "author": "kneeprayer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kneeprayer/node-red-contrib-handson/issues"
+  },
+  "homepage": "https://github.com/kneeprayer/node-red-contrib-handson#readme",
+  "dependencies": {}
+}
